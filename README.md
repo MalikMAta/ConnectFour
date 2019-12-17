@@ -1,5 +1,5 @@
 # ConnectFour
-Connect4 in Java
+
 
 Connect4
 
